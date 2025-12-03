@@ -10,6 +10,16 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<a href="https://github.com/GTC-Git/AdventureWorksPortfolio/tree/main">Click here</a>
+
+<img width="500" src="https://github.com/GTC-Git/AdventureWorksPortfolio/blob/main/imagens/Captura%20de%20tela%202023-12-03%20121514.png?raw=true" alt="Descrição da imagem">
+
+<div style="display: inline_block">
+  <img align="center" alt="Python" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/Python-logo-notext.svg.png?raw=true">
+  <img align="center" alt="SQL" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/logo.png?raw=true">
+  <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/1200px-New_Power_BI_Logo.svg.png?raw=true">
+</div>
+
 <!--
 **GTC-Git/GTC-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
