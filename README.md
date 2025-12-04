@@ -20,7 +20,7 @@
 
 ---
 
-## Onde pode me encontrar
+## Onde me encontrar
 **LinkedIn:** https://www.linkedin.com/in/eng-guilherme-campos/  
 **E-mail:** campoguilherme1980@gmail.com
 
