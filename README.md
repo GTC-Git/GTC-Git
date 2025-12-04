@@ -1,10 +1,12 @@
 # Hello world, I'm Guilherme Campos👋
 
+**Sobre mim:**
 - 📊 **Analista de Dados em formação**, com foco em SQL, Power BI e Python.  
 - 🔭 Focado em transformar dados em informações claras e úteis para apoiar decisões assertivas e estratégicas.
 - 🤓 Em transição de carreira após anos de experiência na engenharia e gestão técnica, agora aplicando minha lógica e visão analítica ao mundo dos dados.
 
----
+**Objetivo Profissional**
+- 🎯 Buscar minha primeira oportunidade como **Analista de Dados**, integrando minha base técnica com pensamento analítico e foco em resultados.
 
 ## Tecnologias & Ferramentas
 <div style="display: inline_block">
@@ -13,18 +15,9 @@
   <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/BruceFonseca/ferramentas/blob/main/1200px-New_Power_BI_Logo.svg.png?raw=true">
 </div>
 
----
-
-## Objetivo Profissional
-- 🎯 Buscar minha primeira oportunidade como **Analista de Dados**, integrando minha base técnica com pensamento analítico e foco em resultados.
-
----
-
 ## Onde me encontrar
 **LinkedIn:** https://www.linkedin.com/in/eng-guilherme-campos/  
 **E-mail:** campoguilherme1980@gmail.com
-
----
 
 ## Projetos em Destaque
 
